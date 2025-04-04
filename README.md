@@ -1,4 +1,4 @@
-Aquí tienes el `README.md` actualizado con una sección adicional que explica que también es posible implementar una versión **no recursiva** para evitar desbordamientos de pila, especialmente cuando `n` es grande:
+
 
 ---
 
